@@ -1,4 +1,4 @@
-# AI-Cyber-Security
+# Observations on the Application of AI in Cybersecurity
 
 <div align="center">
 
