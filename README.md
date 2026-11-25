@@ -27,6 +27,7 @@ The primary criterion for inclusion is that the entry has made a positive impact
 
 | Title | Date | Link | Author | Reference | Summary |
 |:-----:|:----:|:----:|:------:|:---------:|:--------|
+| PentestGPT: An LLM-empowered Automatic Penetration Testing Tool | 2023-08 | [arXiv:2308.06782](https://arxiv.org/abs/2308.06782) | Gelei Deng, Yi Liu, Víctor Mayoral-Vilches, Peng Liu, Yuekang Li, Yuan Xu, Tianwei Zhang, Yang Liu, Martin Pinzger, Stefan Rass | — | PentestGPT, which leverages large language models (LLMs) for the decomposition, reasoning, and automated execution of penetration testing tasks, stands as a representative example of how LLMs can empower penetration testing. |
 
 ## Projects
 
